@@ -26,7 +26,7 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and
 
 
 <h1>
-  hey there I am Oluwafemi welcome !!!
+  hey there I am Oluwafemi !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -38,7 +38,7 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and
 
 ### :woman_technologist: About Me :
 
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 - :telescope: I’m working as a Data Analyst and Agrometeorologist.
