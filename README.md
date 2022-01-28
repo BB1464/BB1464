@@ -45,7 +45,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring Technical Content Writing using R Markdown.
 
-- :zap: In my free time, I reading books.
+- :zap: In my free time, I read motivational books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafemioyedele/)
 
