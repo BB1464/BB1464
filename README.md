@@ -7,7 +7,6 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and
 </div>
 
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 
 <div id="badges">
