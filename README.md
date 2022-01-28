@@ -23,3 +23,6 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and
 
 
 <img src="https://komarev.com/ghpvc/?username=BB1464&style=flat-square&color=blue" alt=""/>
+
+
+https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
