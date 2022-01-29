@@ -58,7 +58,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=BB1464
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB1464)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB1464&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB1464&layout=compact&theme=vision-friendly-dark)](https://github.com/BB1464/BB1464)
 
 
 
