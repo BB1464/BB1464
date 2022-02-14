@@ -45,7 +45,21 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring Technical Content Writing using R Markdown.
 
+- 👯 I’m open to collaborate on Projects and StartUps.   
+
+- 💬 Talk to me about R and Python for Everyone, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Data Engineering, Digital Transformation, and Open Source.
+
 - :zap: In my free time, I read motivational books and answering questions at stackoverflow.
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/gbganalyst/)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/gbganalyst/)
+![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/gbganalyst/)
+![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/gbganalyst/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gbganalyst/)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/gbganalyst/)
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafemioyedele/)
 
