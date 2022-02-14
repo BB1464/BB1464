@@ -61,20 +61,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/gbganalyst/)
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafemioyedele/)
-
-
-### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=BB1464
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BB1464&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB1464)](https://github.com/BB1464/BB1464)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB1464&layout=compact&theme=vision-friendly-dark)](https://github.com/BB1464/BB1464)
-
-
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
