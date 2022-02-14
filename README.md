@@ -47,7 +47,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 👯 I’m open to collaborate on Projects and StartUps.   
 
-- 💬 Talk to me about R and Python for Everyone, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Data Engineering, Digital Transformation, and Open Source.
+- 💬 Talk to me about R and Python, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Time series analysis, simulation modelling, and Open Source.
 
 - :zap: In my free time, I read motivational books and answering questions at stackoverflow.
 
