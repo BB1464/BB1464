@@ -53,12 +53,12 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/gbganalyst/)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/gbganalyst/)
-![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/gbganalyst/)
-![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/gbganalyst/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gbganalyst/)
-![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/gbganalyst/)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/BB1464/)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/BB1464/)
+![HTML](https://img.shields.io/badge/-HTML-ivory?style=flat-square&logo=HTML5&link=https://github.com/BB1464/)
+![CSS](https://img.shields.io/badge/-CSS-GREEN?style=flat-square&logo=CSS3&link=https://github.com/BB1464/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/BB1464/)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/BB1464/)
 
 
 
