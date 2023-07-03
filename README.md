@@ -38,7 +38,7 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist tur
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-- :telescope: I’m working as a Data Analyst and Agrometeorologist.
+- :telescope: I’m working as a Data Sceintist and Agrometeorologist.
 
 - 📚 I write [papers, books and blog](https://statisticalinference.netlify.app).
 
