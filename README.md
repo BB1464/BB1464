@@ -1,5 +1,5 @@
 
-Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and data analyst with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here](statisticalinference.netlify.app
+Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist turned data scientist with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here](statisticalinference.netlify.app
 
 
 <div id="header" align="center">
@@ -35,7 +35,7 @@ Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist and
 
 ### :woman_technologist: About Me :
 
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 - :telescope: I’m working as a Data Analyst and Agrometeorologist.
@@ -48,7 +48,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
-- 💬 Talk to me about R and Python, Modern Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Time series analysis, simulation modelling, and Open Source.
+- 💬 Talk to me about R and Python, Bayesian Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Time series analysis, simulation modelling, and Open Source.
 
 - :zap: In my free time, I read motivational books and answering questions at stackoverflow.
 
