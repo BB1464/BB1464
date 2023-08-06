@@ -1,5 +1,5 @@
 
-Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist turned data scientist with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here](statisticalinference.netlify.app
+Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist turned data scientist with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here]([statisticalinference.netlify.app](https://bb1464.github.io/oluwafemi-oyedele/)
 
 
 <div id="header" align="center">
@@ -42,7 +42,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 📚 I write [papers, books and blog](https://statisticalinference.netlify.app).
 
-- :seedling: Exploring Technical Content Writing using R Markdown.
+- :seedling: Exploring Technical Content Writing using R Markdown and quarto.
 
 - 👯 I’m open to collaborate on Projects and StartUps.   
 
