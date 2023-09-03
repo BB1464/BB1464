@@ -14,7 +14,7 @@
 </div>
 
 
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A passionate software developer and Data Scientist from Nigeria</h3>
 
 <br/>
 
@@ -22,16 +22,13 @@
  
 ### :woman_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-
-- :telescope: I’m working as a Data Sceintist and Agrometeorologist.
+I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 📚 I write [papers, books and blog](https://statisticalinference.netlify.app).
 
 - :seedling: Exploring Technical Content Writing using R Markdown and quarto.
 
-- 👯 I’m open to collaborate on Projects and StartUps.   
+- 👯 I’m open to collaborate on Open Source Projects.   
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
@@ -59,8 +56,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?github,python,javascript,express,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,docker,html,css,vscode,figma,git" />
 </div>
 
 <br/>
@@ -69,7 +66,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/BB1464/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BB1464/BB1464/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
