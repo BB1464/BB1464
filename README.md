@@ -73,12 +73,7 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=BB1464&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My ⚡GitHub Stats ⚡<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/BB1464/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=BB1464&count_private=true&show_icons=true&theme=radical"/>
