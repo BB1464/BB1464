@@ -45,6 +45,10 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
   </a>
   <a href="https://www.linkedin.com/in/oluwafemioyedele/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+ <a href="https://twitter.com/OluwafemOyedele">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   </a>
 <a href="https://BB1464.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -56,8 +60,8 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?github,python,javascript,express,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,docker,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?github,python,javascript,express,docker,shiny" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,docker,html,css,vscode,figma,git,shiny" />
 </div>
 
 <br/>
