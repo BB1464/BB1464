@@ -45,7 +45,7 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
   <a href="https://www.linkedin.com/in/oluwafemioyedele/">
 <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=red" />  
   </a>
-  <a href="[https://twitter.com/OluwafemOyedele](https://twitter.com/OluwafemOyedele)">
+  <a href="https://twitter.com/OluwafemOyedele">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
 
