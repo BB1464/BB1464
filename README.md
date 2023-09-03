@@ -61,7 +61,7 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,github,javascript,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,git,shiny" />
 </div>
 
 <br/>
