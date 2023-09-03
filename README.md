@@ -24,7 +24,7 @@
 
 I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 📚 I write [papers, books and blog](https://statisticalinference.netlify.app).
+- 📚 I write [papers, books and blog](https://bb1464.github.io/oluwafemi-oyedele/).
 
 - :seedling: Exploring Technical Content Writing using R Markdown and quarto.
 
@@ -75,12 +75,9 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  <img width=390 src="https://streak-stats.demolab.com/?user=BB1464&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB1464&theme=react&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 <hr/>
 
@@ -89,3 +86,5 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 </h3>
 
 <br/>
+
+</div>
