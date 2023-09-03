@@ -60,8 +60,8 @@ I am a Data Scientist and Process-Based Modeller<img src="https://media.giphy.co
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=r,python,github,javascript,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,git" />
 </div>
 
 <br/>
