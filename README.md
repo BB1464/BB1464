@@ -1,3 +1,16 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+
+
 
 Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist turned data scientist with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here][(https://bb1464.github.io/oluwafemi-oyedele/)]
 
