@@ -9,11 +9,37 @@
 <br/>
 
 <div align="center">
+ 
+### :woman_technologist: About Me :
+
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
+- :telescope: I’m working as a Data Sceintist and Agrometeorologist.
 
- </a>
-  <a href="https://salesp07.github.io" target="_blank">
+- 📚 I write [papers, books and blog](https://statisticalinference.netlify.app).
+
+- :seedling: Exploring Technical Content Writing using R Markdown and quarto.
+
+- 👯 I’m open to collaborate on Projects and StartUps.   
+
+- 💻 I support [open science and open data](https://ropensci.org/).
+
+- 💬 Talk to me about R and Python, Bayesian Statistics, Data Analysis, Visualization, and Reporting, Geospatial Analytics, Data Science, Business Analytics, Time series analysis, simulation modelling, and Open Source.
+
+- :zap: In my free time, I read motivational books and answering questions at stackoverflow.
+
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:oluwafemioyedele908@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/oluwafemioyedele/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<a href="https://BB1464.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -57,7 +83,6 @@
 </h3>
 
 <br/>
-
 
 
 Hi there welcome 👋 My name is Oluwafemi Oyedele, I am a agrometeorologist turned data scientist with specialty in R and Python, on my Github, you will find repository with research and teaching material you can use for your own purpose. for more info, you can check my blog post [📫here][(https://bb1464.github.io/oluwafemi-oyedele/)]
